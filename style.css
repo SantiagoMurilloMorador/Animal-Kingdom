@@ -1,0 +1,17 @@
+body {
+	background-image: url(https://librosostenibilidad.files.wordpress.com/2017/03/paisaje-cultura-sostenibilidad.jpg);
+	background-position: center; 
+	}
+	h1 {
+		text-align: center;
+		color: white
+
+	}
+	h2 {
+		text-align: center;
+		color: white;
+	}
+	.btn-primary:hover {
+		background-color: purple;
+		border-color: purple;
+	}
